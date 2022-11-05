@@ -10,6 +10,48 @@ Comprende a la perfección los diferentes alcances que tienen tus variables cuan
 - Global Scope
 - Global Scope
 
+Global Scope
+2/13
+
+RECURSOS
+MARCADORES
+Archivos de la clase
+
+/
+DESCARGAR TODO
+
+package.json
+
+.gitignore
+
+README.md
+
+LICENSE
+
+src
+
+Lecturas recomendadas
+
+GitHub - platzi/curso-scopeclosure at clase-01
+
+<https://github.com/platzi/curso-scopeclosure/tree/clase-01>
+
+Curso de Git y Github [Empieza Gratis] - Platzi
+
+<https://platzi.com/cursos/git-github/>
+
+Code Runner - Visual Studio Marketplace
+
+<https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner>
+
+Cómo personalizar tu terminal: temas, colores y plugins
+
+<https://platzi.com/blog/como-personalizar-tu-terminal/>
+
+Downloading and installing Node.js and npm | npm Docs
+
+<https://docs.npmjs.com/downloading-and-installing-node-js-and-npm>
+
 
 
 
